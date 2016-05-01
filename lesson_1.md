@@ -31,8 +31,8 @@ This first line imports the mcpi.minecraft library, making it available under th
 -----------------
 
 ```python
-#NOTE - replace "seanybob" below with your name
-mc = minecraft.Minecraft.create(address="199.96.85.3", name="seanybob")
+#NOTE - replace "seanybob" below with your name and "127.0.0.1" with the tech server IP
+mc = minecraft.Minecraft.create(address="127.0.0.1", name="seanybob")
 ```
 
 - Anything prefixed by the '#' symbol is a comment for humans, and is ignored by the computer.

@@ -24,12 +24,7 @@ Then select Direct Connect
 
 ![](http://teachthe.net/topclipbox/2016-03-03_14-25-36Z7C2ZV.png)
 
-Now you will need to enter the IP of the server.
-- If you are using my server, type in 162.244.165.151:58331
-- If you are running the server locally, type in 127.0.0.1
-- If your instructor is running a server somewhere, they will provide you with the IP to type in.
-
-![](http://teachthe.net/topclipbox/2016-03-03_14-25-53XIX7K9.png)
+Enter the address of the tech server if you're at school (Ask Mason or Christian).
 
 Now click Join Server!
 

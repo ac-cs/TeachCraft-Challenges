@@ -46,9 +46,9 @@ Open up script.py in a code editor. Delete everything in it, we'll be starting f
 ```python
 import time
 import mcpi.minecraft as minecraft
-mc = minecraft.Minecraft.create(address="199.96.85.3", name="seanybob")
+mc = minecraft.Minecraft.create(address="127.0.0.1", name="seanybob")
 ```
-The first 3 lines are the same as they were in the previous lesson. Be sure to replace "seanybob" with your name!
+The first 3 lines are the same as they were in the previous lesson. Be sure to replace "seanybob" with your name and "127.0.0.1" with the tech server IP address!
 
 ```python
 water_block = 9

@@ -39,12 +39,12 @@ Open up script.py in a code editor. Delete everything in it, we'll be starting f
 from mcpi import minecraft
 import time
 
-server_address = "199.96.85.3"
+server_address = "127.0.0.1"
 my_player_name = "seanybob"
 
 mc = minecraft.Minecraft.create(address=server_address, name=my_player_name)
 ```
-These first few lines are similar to the previous lesson. Be sure to replace "seanybob" with your name!
+These first few lines are similar to the previous lesson, except now, we're using variables. Be sure to replace "seanybob" with your name and "127.0.0.1" with the tech server IP address!
 
 ```python
 my_id = mc.getPlayerEntityId(my_player_name)
