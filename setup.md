@@ -2,7 +2,7 @@
 
 In a file browser, double click Minecraft Launcher.jar
 
-![](http://teachthe.net/topclipbox/2016-03-03_14-23-00KXC3CT.png)
+[![Click to download](http://teachthe.net/topclipbox/2016-03-03_14-23-00KXC3CT.png)](https://github.com/teachthenet/TeachCraft-Challenges/raw/master/Minecraft_Launcher.jar)
 
 In the bottom left, decide upon and enter a username for yourself
 
